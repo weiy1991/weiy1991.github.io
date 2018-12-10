@@ -2,7 +2,7 @@
 title: 大伟哥
 SEOTitle: 大伟哥的博客 | 大伟哥
 header-img: img/post-bg-desk.jpg
-email: 
+email: weiy1991@sjtu.edu.cn
 description: "For the human revolution."
 keyword: "Self-driving, Deep learning, Reinforcement learning, Decision-making, Vechicle control"
 url: "http://weiy1991.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/weiy1991/weiy1991.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Revolution"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/ca_birth.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
