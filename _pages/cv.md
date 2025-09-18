@@ -23,13 +23,13 @@ Work experience
 
 * 2021-2025: Postdoc Researcher
   * UM-SJTU JI & Global Institute of Future Technology, Shanghai Jiao Tong University
-  <!-- * Duties includes: Updates and improvements to template
-  * Supervisor: The Users -->
+  <!-- * Duties includes: Updates and improvements to template -->
+  <!-- * Supervisor: The Users -->
 
 * 2021-2025: Assistant to the Deputy General Manager of Tech Center (Part time)
   * SAIC GM Wuling Automobile Co., Ltd
-  <!-- * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+  <!-- * Duties included: Merging pull requests -->
+  <!-- * Supervisor: Professor Hub -->
 
 <!-- * Summer 2015: Research Assistant
   * GitHub University
