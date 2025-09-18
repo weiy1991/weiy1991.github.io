@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, Shanghai Jiao Tong University, 2018 (expected)
-* M.S. in Jekyll, Shanghai Jiao Tong University, 2014
-* B.S. in GitHub, Nanjing University of Aeronautics and Astronautics, 2012
+* Ph.D in Control Science and Engineering, Shanghai Jiao Tong University, 2018 (expected)
+* M.S. in Control Engineering, Shanghai Jiao Tong University, 2014
+* B.S. in Flight Vehicle Propulsion Engineering, Nanjing University of Aeronautics and Astronautics, 2012
 
 Work experience
 ======
