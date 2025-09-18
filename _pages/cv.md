@@ -27,7 +27,7 @@ Work experience
 
 * 2021-2025: Assistant to the Deputy General Manager of Tech Center (Part time)
   * SAIC GM Wuling Automobile Co., Ltd
-
+  
 
 <!-- * Summer 2015: Research Assistant
   * GitHub University
@@ -43,11 +43,11 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 <!-- Talks
 ======
