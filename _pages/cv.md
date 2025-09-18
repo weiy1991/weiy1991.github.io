@@ -46,11 +46,8 @@ Work experience
 Publications
 ======
 [1] Wei YUAN, Hanyang ZHUANG, Chunxiang WANG, Ming YANG*, AGBM: An Adaptive Gradient Balanced Mechanism for the End-to-End Steering Estimation, IEEE Transactions on Intelligent Transportation Systems, Sept. 2022, 23(9): 16016-16025
-
 [2] Wei YUAN, Ming YANG*, Hao LI, Chunxiang WANG, Bing WANG, SteeringLoss: A Cost-Sensitive Loss Function for the End-to-End Steering Estimation, IEEE Transactions on Intelligent Transportation Systems, Feb. 2021, 22(2):1104-1113
-
 [3] Wei YUAN, Ming YANG*, Chunxiang WANG, Bing WANG, VRDriving: A Virtual-to-Real Autonomous Driving Framework based on Adversarial Learning, IEEE Transactions on Cognitive and Developmental Systems, Dec. 2021, 13(4):912-921
-
 [4] Wei YUAN, Yueyuan LI, Hanyang ZHUANG, Chunxiang WANG, Ming YANG*, Prioritized Experience Replay-Based Deep Q Learning: Multiple-Reward Architecture for Highway Driving Decision Making, IEEE Robotics & Automation Magazine, Dec. 2021, 28(4):21-31
 [5] Wei YUAN, Ming YANG*, Yuesheng HE, Chunxiang WANG, Bing WANG, Multi-Reward Architecture based Reinforcement Learning for Highway Driving Policies, 22nd IEEE International Conference on Intelligent Transportation Systems (ITSC2019), Oct. 27-30, 2019, Auckland New Zealand, 3810-3815
 [6] Wei YUAN, Ming YANG*, Chunxiang WANG, Bing WANG, SteeringLoss: Theory and Application for Steering Prediction, 2019 IEEE Intelligent Vehicles Symposium (IV2019), June 9-12, 2019, Paris, France, 1420-1425
@@ -67,6 +64,7 @@ Publications
 [17] Xiaofeng CHEN, Ming YANG*, Wei YUAN, Hao LI, Chunxiang WANG, Split Covariance Intersection Filter based Front-Vehicle Track Estimation for Vehicle Platooning without Communication, 2020 IEEE Intelligent Vehicles Symposium (IV2020), Oct.19-Nov.13, 2020, Las Vegas, USA, 1510-1515
 [18] Bei ZHANG, Ming YANG*, Wei YUAN, Chunxiang WANG, Bing WANG, A Novel System for Guiding Unmanned Vehicles Based on Human Gesture Recognition, 2020 IEEE International Conference on Real-time Computing and Robotics (RCAR2020), Sept. 28-29, 2020, Asahikawa, Japan, 345-350
 [19] Ziqing CHEN, Wei YUAN, Ming YANG*, Chunxiang WANG and Bing WANG, SVM based People Counting Method in the Corridor Scene Using a Single-Layer Laser Scanner, 2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC2016), Dec 1-4, 2016, Rio de Janeiro, Brazil, 2632-2637
+
 
 <!-- Publications
 ======
