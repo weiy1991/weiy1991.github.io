@@ -11,7 +11,7 @@ Welcome! I’m a Associate Professor School of Geospatial Artificial Intelligenc
 
 Research Interests
 ======
-My research focuses on multi-modality and real-world deployable embodied intelligence. I am particularly interested in integrating tactile manipulation, deformable simulation, and perception to develop robust solutions for robot manipulation tasks. My work aims to advance the field of soft robotics and enable intelligent systems to operate effectively in complex, real-world environments.
+My primary research interests lie in end-to-end autonomous driving, reinforcement learning-based autonomous driving, and mobile robotics applications. The overarching goal of my work is to develop embodied edge intelligence agents that can operate effectively in the era of embodied intelligence.
 
 
 Education

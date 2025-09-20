@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Publications"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * Ph.D in Control Science and Engineering, Shanghai Jiao Tong University, 2017-2021
 * M.S. in Control Engineering, Shanghai Jiao Tong University, 2014-2017
@@ -27,7 +27,7 @@ Work experience
 
 * 2021-2025: Assistant to the Deputy General Manager of Tech Center (Part time)
   * SAIC GM Wuling Automobile Co., Ltd
-  
+   -->
 
 <!-- * Summer 2015: Research Assistant
   * GitHub University
