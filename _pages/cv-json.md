@@ -9,9 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-{% include cv-template.html %}
-
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
-</div>
+My research primarily encompasses perception, decision-making, planning, and control in autonomous driving. All of my research efforts are implemented in real-world applications, as I firmly believe that true research value can only be realized through practical deployment.
