@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m a Associate Professor School of Geospatial Artificial Intelligence, East China Normal University.
+Welcome! I’m a Associate Professor in School of Geospatial Artificial Intelligence, East China Normal University.
 
 Research Interests
 ======
@@ -28,7 +28,6 @@ Work experience
 
 * 2021-2025: Postdoc Researcher
   * UM-SJTU JI & Global Institute of Future Technology, Shanghai Jiao Tong University
-
 
 * 2021-2025: Assistant to the Deputy General Manager of Tech Center (Part time)
   * SAIC GM Wuling Automobile Co., Ltd
