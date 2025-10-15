@@ -22,6 +22,10 @@ Researches
 
 <img src="../images/Reddit.jpg" alt="Demo" width="300">
 
+<p align="center">
+  <img src="./images/tennis_robot.jpg" alt="Demo" width="300">
+</p>
+
 * 2021.06-2024.06：Shanghai Talent Development Fund. 
   * Research on key technologies of unmanned logistics vehicles for industrial parks
 
@@ -46,7 +50,7 @@ Applications
   <img src="../images/Reddit.jpg" alt="Demo" width="300">
 * 2022.06–2023.06: 
   * Participate in the Project of Unmanned Driving System - intelligent networked vehicle decision planning design and development
-  
+
   <img src="../images/Reddit.jpg" alt="Demo" width="300">
 * 2019.12–2021.06: 
   * Participate in the Project of 5G cloud-controlled unmanned logistics vehicle intelligent system
