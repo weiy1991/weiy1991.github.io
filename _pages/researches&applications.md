@@ -23,3 +23,5 @@ Researches
 * 2021.06-2024.06：Shanghai Talent Development Fund. 
   * Research on key technologies of unmanned logistics vehicles for industrial parks
 
+![网球机器人原型](./images/tennis_robot.jpg)
+
