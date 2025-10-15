@@ -20,8 +20,10 @@ Researches
 * 2023.01–2025.12: National Natural Science Foundation of China(62203301)
   * Research on End-to-End Learning Method of Intelligent Vehicle based on  Virtual-Real Transfer
 
+![网球机器人原型](./images/Reddit.jpg)
+
 * 2021.06-2024.06：Shanghai Talent Development Fund. 
   * Research on key technologies of unmanned logistics vehicles for industrial parks
 
-![网球机器人原型](./images/tennis_robot.jpg)
+![网球机器人原型](./images/Reddit.jpg)
 
