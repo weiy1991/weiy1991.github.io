@@ -57,7 +57,7 @@ Applications
 * Self-driving logistic vehicles: 
   * My team has developed full-stack software and algorithms for unmanned logistics vehicles, and has implemented the use of more than 300 unmanned logistics vehicles in multiple factories, including SAIC-GM-Wuling and CATL's Sichuan factory.
 <p align="center">
-  <img src="../images/researches/all_steps.gif" alt="Demo" width="300">
+  <img src="../images/researches/logistics.gif" alt="Demo" width="300">
   <figcaption style="text-align:center;">Real deployment of the self-driving logistic vehicles</figcaption>
 </p>
 
@@ -65,7 +65,7 @@ Applications
   * Traditional unmanned forklifts rely heavily on high-precision positioning to operate. My team has developed a perception-based unmanned forklift based on non-repetitive scanning technology. This technology, combined with natural positioning accuracy of approximately 5cm, allows for an operational accuracy of 2cm. This system is being used for outdoor forklift unloading at SAIC-GM-Wuling.
 
 <p align="center">
-  <img src="../images/researches/AMR_outdoor.gif" alt="Demo" width="300">
+  <img src="../images/researches/foeklift.gif" alt="Demo" width="300">
   <figcaption style="text-align:center;">Framework of the ShanghaiTalent project</figcaption>
 </p>
 
