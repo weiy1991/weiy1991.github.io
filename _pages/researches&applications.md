@@ -66,7 +66,7 @@ Applications
 
 <p align="center">
   <img src="../images/researches/foeklift.gif" alt="Demo" width="300">
-  <figcaption style="text-align:center;">Framework of the ShanghaiTalent project</figcaption>
+  <figcaption style="text-align:center;">Real deployment of the autonomous forklift</figcaption>
 </p>
 
 * Finished vehicle transfer vehicle: 
