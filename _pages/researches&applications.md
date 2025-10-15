@@ -22,7 +22,7 @@ Researches
 
 <p align="center">
   <img src="../images/researches/nsfc.png" alt="Demo" width="300">
-  <figcaption>Framework of the NSFC project</figcaption>
+  <figcaption style="text-align:center;">Framework of the NSFC project</figcaption>
 </p>
 
 * 2021.06-2024.06：Shanghai Talent Development Fund. 
