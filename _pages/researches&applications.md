@@ -25,6 +25,26 @@ Researches
 * 2021.06-2024.06：Shanghai Talent Development Fund. 
   * Research on key technologies of unmanned logistics vehicles for industrial parks
 
-<img src="../images/tennis_robot.jpg" alt="网球机器人" width="300">
+<img src="../images/Reddit.jpg" alt="网球机器人" width="300">
+
+
+
+Applications
+======
+
+
+* 2021.06–2024.12: 
+  * Led a Research on smart delivery takeaway unmanned vehicle (0.45 million yuan)
+* 2023.06-2024.12:
+  * Participate in the Project of Design and development of new energy intelligent networked vehicle software code (11.95 million yuan)  
+* 2022.06–2023.06: 
+  * Participate in the Project of Adaptation of 100 Shanghai Jiao Tong University system unmanned logistics vehicles (1 million yuan)  
+* 2022.06–2023.06: 
+  * Participate in the Project of Unmanned Driving System - intelligent networked vehicle decision planning design and development (1.18 million yuan) 
+* 2019.12–2021.06: 
+  * Participate in the Project of 5G cloud-controlled unmanned logistics vehicle intelligent system (3.6 million yuan)                       
+
+
+<img src="../images/Reddit.jpg" alt="网球机器人" width="100">
 
 
