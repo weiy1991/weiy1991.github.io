@@ -38,12 +38,15 @@ Applications
   <img src="../images/Reddit.jpg" alt="Demo" width="300">
 * 2023.06-2024.12:
   * Participate in the Project of Design and development of new energy intelligent networked vehicle software code
+
   <img src="../images/Reddit.jpg" alt="Demo" width="300">
 * 2022.06–2023.06: 
   * Participate in the Project of Adaptation of 100 Shanghai Jiao Tong University system unmanned logistics vehicles
+
   <img src="../images/Reddit.jpg" alt="Demo" width="300">
 * 2022.06–2023.06: 
   * Participate in the Project of Unmanned Driving System - intelligent networked vehicle decision planning design and development
+  
   <img src="../images/Reddit.jpg" alt="Demo" width="300">
 * 2019.12–2021.06: 
   * Participate in the Project of 5G cloud-controlled unmanned logistics vehicle intelligent system
