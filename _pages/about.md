@@ -7,28 +7,60 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m a Associate Professor in School of Geospatial Artificial Intelligence, East China Normal University.
+Welcome!
+======
+I am an Assistant Professor at the School of Geospatial Artificial Intelligence, East China Normal University.
 
 Research Interests
 ======
-My primary research interests lie in end-to-end autonomous driving, reinforcement learning-based autonomous driving, and mobile robotics applications. The overarching goal of my work is to develop embodied edge intelligence agents that can operate effectively in the era of embodied intelligence.
+My research focuses on end-to-end autonomous driving, reinforcement learning for autonomous driving, and mobile robotics applications.
+The overarching goal of my work is to develop embodied edge intelligence agents capable of operating robustly and efficiently in the emerging era of embodied intelligence.
 
 
 Education
 ======
-* Ph.D in Control Science and Engineering, Shanghai Jiao Tong University, 2017-2021
-* M.S. in Control Engineering, Shanghai Jiao Tong University, 2014-2017
-* B.S. in Flight Vehicle Propulsion Engineering, Nanjing University of Aeronautics and Astronautics, 2010-2014
+* Ph.D., Control Science and Engineering, Shanghai Jiao Tong University, 2017–2021
+* M.S., Control Engineering, Shanghai Jiao Tong University, 2014–2017
+* B.S., Flight Vehicle Propulsion Engineering, Nanjing University of Aeronautics and Astronautics, 2010–2014
 
-Work experience
+Professional Experience
 ======
 
-* 2025-Now: Assistant Professor
+* 2025–Present: Assistant Professor
   * School of Geospatial Artificial Intelligence, East China Normal University
 
-* 2021-2025: Postdoc Researcher
-  * UM-SJTU JI & Global Institute of Future Technology, Shanghai Jiao Tong University
+* 2021–2025: Postdoctoral Research Fellow
+  * UM–SJTU Joint Institute & Global Institute of Future Technology, Shanghai Jiao Tong University
 
-* 2021-2025: Assistant to the Deputy General Manager of Tech Center (Part time)
-  * SAIC GM Wuling Automobile Co., Ltd
+* 2021–2025: Assistant to the Deputy General Manager (Part-time)
+  * Technical Center, SAIC-GM-Wuling Automobile Co., Ltd.
+
+
+Honors & Awards
+
+======
+* 2024 – Best Student Paper Award, IEEE RCAR (Sole Corresponding Author)
+
+* 2023 – Selected for the Shanghai “Super Postdoctoral” Program
+
+* 2023 – National Bronze Award (Entrepreneurship Group), 2nd China Postdoctoral Innovation & Entrepreneurship Competition (Rank 1)
+
+* 2022 – Growth Group Winner, 11th China Innovation & Entrepreneurship Competition (Rank 1)
+
+* 2021 – National Silver Award (Innovation Group), 1st China Postdoctoral Innovation & Entrepreneurship Competition (Rank 1)
+
+* 2021 – Outstanding Doctoral Dissertation Award, Shanghai Automation Society
+
+* 2021 – Outstanding Graduate, Shanghai General Higher Education Institutions
+
+* 2020 – Excellent Teaching Assistant Award, Shanghai Jiao Tong University
+
+* 2019 – Best Paper Award (Rank 2), National Automation Education Academic Annual Conference
+
+* 2018 – Best Student Paper Award (Rank 1), 13th China Intelligent Robot Conference
+
+
+
+
+
 
