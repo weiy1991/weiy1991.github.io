@@ -9,91 +9,87 @@ redirect_from:
 
 {% include base_path %}
 
+My research primarily focuses on **perception**, **decision-making**, **planning**, and **control** in autonomous driving.  
+All of my research is closely connected to **real-world applications**, as I firmly believe that the true value of research lies in its practical deployment and societal impact.
 
+---
 
-My research primarily encompasses perception, decision-making, planning, and control in autonomous driving. All of my research efforts are implemented in real-world applications, as I firmly believe that true research value can only be realized through practical deployment.
+## Research Projects
 
-
-Researches
-======
-
-* 2023.01–2025.12: National Natural Science Foundation of China(62203301)
-  * Research on End-to-End Learning Method of Intelligent Vehicle based on  Virtual-Real Transfer
+* **2023.01–2025.12:** National Natural Science Foundation of China (No. 62203301)  
+  * *Research on End-to-End Learning Methods for Intelligent Vehicles Based on Virtual–Real Transfer*
 
 <p align="center">
   <img src="../images/researches/nsfc.png" alt="Demo" width="300">
   <figcaption style="text-align:center;">Framework of the NSFC project</figcaption>
 </p>
 
-* 2021.06-2024.06：Shanghai Talent Development Fund. 
-  * Research on key technologies of unmanned logistics vehicles for industrial parks
+* **2021.06–2024.06:** Shanghai Talent Development Fund  
+  * *Research on Key Technologies of Unmanned Logistics Vehicles for Industrial Parks*
 
 <p align="center">
   <img src="../images/researches/ShanghaiTalent.png" alt="Demo" width="300">
-  <figcaption style="text-align:center;">Framework of the ShanghaiTalent project</figcaption>
+  <figcaption style="text-align:center;">Framework of the Shanghai Talent project</figcaption>
 </p>
 
+* **2021.06–2024.12:**  
+  * *Principal Investigator, Research on Smart Takeaway Delivery Unmanned Vehicles*
 
-* 2021.06–2024.12: 
-  * Led a Research on smart delivery takeaway unmanned vehicle
+* **2023.06–2024.12:**  
+  * *Participant, Project on the Design and Development of Software Systems for New Energy Intelligent Connected Vehicles*
 
-* 2023.06-2024.12:
-  * Participate in the Project of Design and development of new energy intelligent networked vehicle software code
+* **2022.06–2023.06:**  
+  * *Participant, Project on the Deployment and Adaptation of 100 Unmanned Logistics Vehicles for Shanghai Jiao Tong University*
 
-* 2022.06–2023.06: 
-  * Participate in the Project of Adaptation of 100 Shanghai Jiao Tong University system unmanned logistics vehicles
+* **2022.06–2023.06:**  
+  * *Participant, Project on Decision-Making and Planning Systems for Intelligent Connected Vehicles*
 
-* 2022.06–2023.06: 
-  * Participate in the Project of Unmanned Driving System - intelligent networked vehicle decision planning design and development
+* **2019.12–2021.06:**  
+  * *Participant, Project on 5G Cloud-Controlled Unmanned Logistics Vehicle Intelligent Systems*
 
-* 2019.12–2021.06: 
-  * Participate in the Project of 5G cloud-controlled unmanned logistics vehicle intelligent system
+---
 
+## Industrial Applications
 
+* **Self-Driving Logistics Vehicles**  
+  * My team has developed full-stack software and algorithms for unmanned logistics vehicles, achieving large-scale deployment of **over 300 vehicles** across multiple factories, including **SAIC-GM-Wuling** and **CATL’s Sichuan plant**.
 
-Applications
-======
-
-* Self-driving logistic vehicles: 
-  * My team has developed full-stack software and algorithms for unmanned logistics vehicles, and has implemented the use of more than 300 unmanned logistics vehicles in multiple factories, including SAIC-GM-Wuling and CATL's Sichuan factory.
 <p align="center">
   <img src="../images/researches/logistics.gif" alt="Demo" width="300">
-  <figcaption style="text-align:center;">Real deployment of the self-driving logistic vehicles</figcaption>
+  <figcaption style="text-align:center;">Real-world deployment of self-driving logistics vehicles</figcaption>
 </p>
 
-* Perception-based unmanned forklift:
-  * Traditional unmanned forklifts rely heavily on high-precision positioning to operate. My team has developed a perception-based unmanned forklift based on non-repetitive scanning technology. This technology, combined with natural positioning accuracy of approximately 5cm, allows for an operational accuracy of 2cm. This system is being used for outdoor forklift unloading at SAIC-GM-Wuling.
+* **Perception-Based Autonomous Forklifts**  
+  * Traditional unmanned forklifts rely heavily on high-precision localization systems.  
+    My team developed a **perception-driven autonomous forklift** using non-repetitive LiDAR scanning technology.  
+    This system achieves a **natural localization accuracy of ~5 cm** and an **operational precision of 2 cm**, and is currently deployed for outdoor unloading operations at **SAIC-GM-Wuling**.
 
 <p align="center">
   <img src="../images/researches/foeklift.gif" alt="Demo" width="300">
-  <figcaption style="text-align:center;">Real deployment of the autonomous forklift</figcaption>
+  <figcaption style="text-align:center;">Deployment of the perception-based autonomous forklift</figcaption>
 </p>
 
-* Finished vehicle transfer vehicle: 
-  * Traditionally, finished cars need to be manually transported after they roll off the assembly line, which is time-consuming and labor-intensive. Our team has developed a transport vehicle that can achieve both indoor and outdoor navigation and is used in SAIC-GM-Wuling's island-style factory.
+* **Finished Vehicle Transfer Robots**  
+  * Traditionally, finished cars are manually moved after rolling off the production line, which is time-consuming and labor-intensive.  
+    Our team developed an **indoor–outdoor navigation transport robot** capable of autonomously transferring finished vehicles, currently operating at **SAIC-GM-Wuling’s island-style plant**.
 
 <p align="center">
   <img src="../images/researches/AMR_outdoor.gif" alt="Demo" width="300">
-  <figcaption style="text-align:center;">Real deployment of the transfer vehicles</figcaption>
+  <figcaption style="text-align:center;">Deployment of the finished vehicle transfer robot</figcaption>
 </p>
 
-
-* Unmanned sweeper: 
-  * Natural navigation and autonomous cleaning of small cleaning robots based on top-view lidar
+* **Autonomous Sweeper Robots**  
+  * Developed a compact **autonomous cleaning robot** equipped with top-view LiDAR for natural navigation and automatic cleaning in complex environments.
 
 <p align="center">
   <img src="../images/researches/cleaner.gif" alt="Demo" width="300">
-  <figcaption style="text-align:center;">Demo of the autonous sweeper</figcaption>
+  <figcaption style="text-align:center;">Demonstration of the autonomous sweeper</figcaption>
 </p>
 
-
-* Unmanned logistics full chain: 
-  * Based on unmanned forklifts, unmanned logistics vehicles and AGVs, the whole chain of logistics work from unmanned forklift unloading, unmanned logistics vehicle transfer, to AGV online operation is realized, and it is applied to the engine manufacturing line of SAIC General Materials
+* **Unmanned Logistics Full Chain**  
+  * By integrating **autonomous forklifts**, **unmanned logistics vehicles**, and **AGVs**, our system enables a **fully automated logistics chain**—from unloading, to material transfer, to in-line AGV operation—currently deployed on **SAIC’s engine manufacturing line**.
 
 <p align="center">
   <img src="../images/researches/all_steps.gif" alt="Demo" width="300">
-  <figcaption style="text-align:center;">Demo of the logistics full chain</figcaption>
+  <figcaption style="text-align:center;">Demonstration of the full-chain unmanned logistics system</figcaption>
 </p>
-
-
-
