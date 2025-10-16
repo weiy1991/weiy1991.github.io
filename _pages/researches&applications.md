@@ -69,9 +69,8 @@ All of my research is closely connected to **real-world applications**, as I fir
   <figcaption style="text-align:center;">Deployment of the perception-based autonomous forklift</figcaption>
 </p>
 
-* **Finished Vehicle Transfer Robots**  
-  * Traditionally, finished cars are manually moved after rolling off the production line, which is time-consuming and labor-intensive.  
-    Our team developed an **indoor–outdoor navigation transport robot** capable of autonomously transferring finished vehicles, currently operating at **SAIC-GM-Wuling’s island-style plant**.
+* **Newly Assembled Vehicle Transfer Robots**  
+  * Traditionally, newly assembled vehicles had to be manually moved off the production line, which was time-consuming and labor-intensive. Our team developed an **autonomous transfer robot** capable of seamless indoor–outdoor navigation, now deployed at **SAIC-GM-Wuling’s island-style factory**.
 
 <p align="center">
   <img src="../images/researches/AMR_outdoor.gif" alt="Demo" width="400">
