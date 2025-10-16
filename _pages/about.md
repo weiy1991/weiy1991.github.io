@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 Welcome!
-======
 I am an Assistant Professor at the School of Geospatial Artificial Intelligence, East China Normal University.
 
 Research Interests
@@ -37,8 +36,8 @@ Professional Experience
 
 
 Honors & Awards
-
 ======
+
 * 2024 – Best Student Paper Award, IEEE RCAR (Sole Corresponding Author)
 
 * 2023 – Selected for the Shanghai “Super Postdoctoral” Program
@@ -51,11 +50,9 @@ Honors & Awards
 
 * 2021 – Outstanding Doctoral Dissertation Award, Shanghai Automation Society
 
-* 2021 – Outstanding Graduate, Shanghai General Higher Education Institutions
+* 2021 – Outstanding Graduate of Shanghai
 
 * 2020 – Excellent Teaching Assistant Award, Shanghai Jiao Tong University
-
-* 2019 – Best Paper Award (Rank 2), National Automation Education Academic Annual Conference
 
 * 2018 – Best Student Paper Award (Rank 1), 13th China Intelligent Robot Conference
 
