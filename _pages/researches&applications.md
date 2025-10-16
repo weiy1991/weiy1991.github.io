@@ -59,7 +59,7 @@ All of my research is closely connected to **real-world applications**, as I fir
   <figcaption style="text-align:center;">Real-world deployment of self-driving logistics vehicles</figcaption>
 </p>
 
-* **Perception-Based Autonomous Forklifts**  
+* **Perception-based Autonomous Forklifts**  
   * Traditional unmanned forklifts rely heavily on high-precision localization systems.  
     My team developed a **perception-driven autonomous forklift** using non-repetitive LiDAR scanning technology.  
     This system achieves a **natural localization accuracy of ~5 cm** and an **operational precision of 2 cm**, and is currently deployed for outdoor unloading operations at **SAIC-GM-Wuling**.
