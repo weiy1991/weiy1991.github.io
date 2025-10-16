@@ -20,7 +20,7 @@ All of my research is closely connected to **real-world applications**, as I fir
   * *Research on End-to-End Learning Methods for Intelligent Vehicles Based on Virtual–Real Transfer*
 
 <p align="center">
-  <img src="../images/researches/nsfc.png" alt="Demo" width="300">
+  <img src="../images/researches/nsfc.png" alt="Demo" width="400">
   <figcaption style="text-align:center;">Framework of the NSFC project</figcaption>
 </p>
 
@@ -28,7 +28,7 @@ All of my research is closely connected to **real-world applications**, as I fir
   * *Research on Key Technologies of Unmanned Logistics Vehicles for Industrial Parks*
 
 <p align="center">
-  <img src="../images/researches/ShanghaiTalent.png" alt="Demo" width="300">
+  <img src="../images/researches/ShanghaiTalent.png" alt="Demo" width="400">
   <figcaption style="text-align:center;">Framework of the Shanghai Talent project</figcaption>
 </p>
 
@@ -36,16 +36,16 @@ All of my research is closely connected to **real-world applications**, as I fir
   * *Principal Investigator, Research on Smart Takeaway Delivery Unmanned Vehicles*
 
 * **2023.06–2024.12:**  
-  * *Participant, Project on the Design and Development of Software Systems for New Energy Intelligent Connected Vehicles*
+  * *Technical Lead, Project on the Design and Development of Software Systems for New Energy Intelligent Connected Vehicles*
 
 * **2022.06–2023.06:**  
-  * *Participant, Project on the Deployment and Adaptation of 100 Unmanned Logistics Vehicles for Shanghai Jiao Tong University*
+  * *Technical Lead, Project on the Deployment and Adaptation of 100 Unmanned Logistics Vehicles for Shanghai Jiao Tong University*
 
 * **2022.06–2023.06:**  
-  * *Participant, Project on Decision-Making and Planning Systems for Intelligent Connected Vehicles*
+  * *Technical Lead, Project on Decision-Making and Planning Systems for Intelligent Connected Vehicles*
 
 * **2019.12–2021.06:**  
-  * *Participant, Project on 5G Cloud-Controlled Unmanned Logistics Vehicle Intelligent Systems*
+  * *Technical Lead, Project on 5G Cloud-Controlled Unmanned Logistics Vehicle Intelligent Systems*
 
 ---
 
@@ -55,7 +55,7 @@ All of my research is closely connected to **real-world applications**, as I fir
   * My team has developed full-stack software and algorithms for unmanned logistics vehicles, achieving large-scale deployment of **over 300 vehicles** across multiple factories, including **SAIC-GM-Wuling** and **CATL’s Sichuan plant**.
 
 <p align="center">
-  <img src="../images/researches/logistics.gif" alt="Demo" width="300">
+  <img src="../images/researches/logistics.gif" alt="Demo" width="400">
   <figcaption style="text-align:center;">Real-world deployment of self-driving logistics vehicles</figcaption>
 </p>
 
@@ -65,7 +65,7 @@ All of my research is closely connected to **real-world applications**, as I fir
     This system achieves a **natural localization accuracy of ~5 cm** and an **operational precision of 2 cm**, and is currently deployed for outdoor unloading operations at **SAIC-GM-Wuling**.
 
 <p align="center">
-  <img src="../images/researches/foeklift.gif" alt="Demo" width="300">
+  <img src="../images/researches/foeklift.gif" alt="Demo" width="400">
   <figcaption style="text-align:center;">Deployment of the perception-based autonomous forklift</figcaption>
 </p>
 
@@ -74,7 +74,7 @@ All of my research is closely connected to **real-world applications**, as I fir
     Our team developed an **indoor–outdoor navigation transport robot** capable of autonomously transferring finished vehicles, currently operating at **SAIC-GM-Wuling’s island-style plant**.
 
 <p align="center">
-  <img src="../images/researches/AMR_outdoor.gif" alt="Demo" width="300">
+  <img src="../images/researches/AMR_outdoor.gif" alt="Demo" width="400">
   <figcaption style="text-align:center;">Deployment of the finished vehicle transfer robot</figcaption>
 </p>
 
@@ -82,7 +82,7 @@ All of my research is closely connected to **real-world applications**, as I fir
   * Developed a compact **autonomous cleaning robot** equipped with top-view LiDAR for natural navigation and automatic cleaning in complex environments.
 
 <p align="center">
-  <img src="../images/researches/cleaner.gif" alt="Demo" width="300">
+  <img src="../images/researches/cleaner.gif" alt="Demo" width="400">
   <figcaption style="text-align:center;">Demonstration of the autonomous sweeper</figcaption>
 </p>
 
@@ -90,6 +90,6 @@ All of my research is closely connected to **real-world applications**, as I fir
   * By integrating **autonomous forklifts**, **unmanned logistics vehicles**, and **AGVs**, our system enables a **fully automated logistics chain**—from unloading, to material transfer, to in-line AGV operation—currently deployed on **SAIC’s engine manufacturing line**.
 
 <p align="center">
-  <img src="../images/researches/all_steps.gif" alt="Demo" width="300">
+  <img src="../images/researches/all_steps.gif" alt="Demo" width="400">
   <figcaption style="text-align:center;">Demonstration of the full-chain unmanned logistics system</figcaption>
 </p>
