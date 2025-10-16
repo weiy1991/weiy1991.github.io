@@ -74,7 +74,7 @@ All of my research is closely connected to **real-world applications**, as I fir
 
 <p align="center">
   <img src="../images/researches/AMR_outdoor.gif" alt="Demo" width="400">
-  <figcaption style="text-align:center;">Deployment of the finished vehicle transfer robot</figcaption>
+  <figcaption style="text-align:center;">Deployment of the vehicle transfer robot</figcaption>
 </p>
 
 * **Autonomous Sweeper Robots**  
