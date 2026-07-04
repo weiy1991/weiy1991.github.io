@@ -28,6 +28,9 @@ main:
     
   - title: "Researches & Applications"
     url: /researches&applications/
+
+  - title: "News"
+    url: /news/
     
   #- title: "Guide"
   #  url: /markdown/
