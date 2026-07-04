@@ -48,6 +48,7 @@ News
 
 
 ## 团队论文入选 IEEE Intelligent Vehicles Symposium 2026 并进行海报展示
+2026-07-04
 
 2026年国际智能车大会（IEEE Intelligent Vehicles Symposium 2026,IEEE IV 2026）于6月22日至6月25日在美国密歇根州底特律 Detroit Marriott at the Renaissance Center 举办。华东师范大学空间人工智能学院袁伟老师组硕士研究生先宇洁同学参加了此次会议,并以海报形式展示论文 “Few-Shot Learning via Fisheye Image Augmentation for Robust Keypoint Detection in Automatic Docking Systems”。
 
