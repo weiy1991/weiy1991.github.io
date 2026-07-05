@@ -44,8 +44,6 @@ Work experience
 * Skill 3 -->
 
 
-======
-
 ## 团队论文被 IEEE Intelligent Vehicles Symposium 2026 录用并作海报展示
 ## Team Paper Accepted to IEEE IV 2026 and Presented as a Poster
 2026-07-04
