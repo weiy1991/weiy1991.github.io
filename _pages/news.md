@@ -57,21 +57,21 @@ News
   <figcaption style="text-align:center;">Framework of the NSFC project</figcaption>
 </p>
 <p align="center">
-  <img src="../images/news/6.png" alt="Demo" width="400">
+  <img src="../images/news/6.jpg" alt="Demo" width="400">
   <figcaption style="text-align:center;">Framework of the NSFC project</figcaption>
 </p>
 <p align="center">
-  <img src="../images/news/7.png" alt="Demo" width="400">
+  <img src="../images/news/7.jpg" alt="Demo" width="400">
   <figcaption style="text-align:center;">Framework of the NSFC project</figcaption>
 </p>
 IEEE IV 是智能车辆领域最具影响力的国际学术会议之一，汇聚了来自全球高校、科研院所、企业及政府机构的专家学者、工程师和青年科研人员，围绕智能车辆、自动驾驶、车辆感知、车路协同、智能交通系统等前沿方向开展深入交流，集中展示该领域的最新研究成果与技术进展。
 <p align="center">
-  <img src="../images/news/1.png" alt="Demo" width="400">
+  <img src="../images/news/1.jpg" alt="Demo" width="400">
   <figcaption style="text-align:center;">Framework of the NSFC project</figcaption>
 </p>
 本次展示的论文由华东师范大学与上海交通大学合作完成，面向自动驾驶与智慧物流场景中的自动挂接任务，聚焦拖挂车辆倒车挂接过程中的关键点检测问题。针对传统方法依赖昂贵三维传感器或大规模标注数据、部署成本较高等问题，论文提出了一种基于历史轨迹的鱼眼图像增强少样本学习方法。实验结果表明，该方法在显著降低数据标注成本的同时，仍能够保持优异的关键点检测性能，并在真实自动挂接系统中实现了99.2%的挂接成功率，验证了方法在实际应用中的有效性与工程价值，并成功应用于上汽通用五菱无人物流车等项目。
 <p align="center">
-  <img src="../images/news/4.png" alt="Demo" width="400">
+  <img src="../images/news/4.jpg" alt="Demo" width="400">
   <figcaption style="text-align:center;">Framework of the NSFC project</figcaption>
 </p>
 会议期间，先宇洁围绕论文的研究背景、方法设计、实验验证及系统应用进行了海报展示，并与来自国内外高校、科研机构的专家学者及青年科研人员进行了深入交流，围绕少样本学习、低成本车载感知、自动驾驶感知技术以及智能车辆等前沿方向展开了广泛讨论。此次参会进一步拓展了先宇洁的国际学术视野，加深了其对智能车辆领域前沿技术发展趋势的理解，也为后续科研和工程工作的深入开展积累了宝贵经验。
