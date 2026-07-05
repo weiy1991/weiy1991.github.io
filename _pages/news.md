@@ -59,11 +59,11 @@ Work experience
 <div style="display: flex; justify-content: center; gap: 20px;">
 
   <div style="text-align: center;">
-    <img src="../images/news/6.jpg" alt="Demo 1" width="150">
+    <img src="../images/news/6.jpg" alt="Demo 1" width="200">
   </div>
 
   <div style="text-align: center;">
-    <img src="../images/news/7.jpg" alt="Demo 2" width="150">
+    <img src="../images/news/7.jpg" alt="Demo 2" width="200">
   </div>
 
 </div>
