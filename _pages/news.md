@@ -53,7 +53,6 @@ Work experience
   <img src="../images/news/8.png" alt="Demo" width="400">
   <figcaption style="text-align:center;"> </figcaption>
 </p>
-
 <div style="display: flex; justify-content: center; gap: 20px;">
 
   <div style="text-align: center;">
@@ -79,7 +78,7 @@ IEEE IV 是智能车辆领域最具影响力的国际学术会议之一，汇聚
 会议期间，先宇洁围绕论文的研究背景、方法设计、实验验证及系统应用进行了海报展示，并与来自国内外高校、科研机构的专家学者及青年科研人员进行了深入交流，围绕少样本学习、低成本车载感知、自动驾驶感知技术以及智能车辆等前沿方向展开了广泛讨论。此次参会进一步拓展了先宇洁的国际学术视野，加深了其对智能车辆领域前沿技术发展趋势的理解，也为后续科研和工程工作的深入开展积累了宝贵经验。
 作为智能车辆领域的重要国际学术会议，IEEE IV 持续推动自动驾驶、智能车辆、车路协同及智能交通系统等方向的创新发展，为全球科研人员提供了高水平的学术交流平台。此次论文入选并完成展示，充分体现了团队在智能驾驶与智能感知领域的持续研究进展，也进一步提升了团队在国际学术舞台上的学术影响力。
 
-# English Summary: 
+### English Summary: 
 A paper from Dr. Wei Yuan's research group at the School of Geospatial Artificial Intelligence, East China Normal University, was accepted to the 2026 IEEE Intelligent Vehicles Symposium (IEEE IV 2026) and presented in the Poster Session. The research proposes a few-shot learning framework based on fisheye image augmentation for robust keypoint detection in autonomous docking systems. The method significantly reduces annotation costs while achieving a 99.2% docking success rate in a real-world autonomous docking platform. The work has also been deployed in autonomous logistics vehicle projects with SAIC-GM-Wuling. During the conference, the team exchanged ideas with researchers worldwide on intelligent vehicles, autonomous driving, and vehicle perception, further strengthening its international academic visibility.
 
 
