@@ -43,9 +43,8 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-News
-======
 
+======
 
 ## 团队论文被 IEEE Intelligent Vehicles Symposium 2026 录用并作海报展示
 ## Team Paper Accepted to IEEE IV 2026 and Presented as a Poster
@@ -57,15 +56,15 @@ News
   <figcaption style="text-align:center;"> </figcaption>
 </p>
 
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+<div style="display: flex; justify-content: center; gap: 20px;">
 
-  <figure style="margin:0; text-align:center;">
-    <img src="../images/news/6.jpg" style="width:48%; min-width:300px;">
-  </figure>
+  <div style="text-align: center;">
+    <img src="../images/news/6.jpg" alt="Demo 1" width="380">
+  </div>
 
-  <figure style="margin:0; text-align:center;">
-    <img src="../images/news/7.jpg" style="width:48%; min-width:300px;">
-  </figure>
+  <div style="text-align: center;">
+    <img src="../images/news/7.jpg" alt="Demo 2" width="380">
+  </div>
 
 </div>
 
