@@ -56,14 +56,19 @@ News
   <img src="../images/news/8.png" alt="Demo" width="400">
   <figcaption style="text-align:center;"> </figcaption>
 </p>
-<p align="center">
-  <img src="../images/news/6.jpg" alt="Demo" width="400">
-  <figcaption style="text-align:center;"> </figcaption>
-</p>
-<p align="center">
-  <img src="../images/news/7.jpg" alt="Demo" width="400">
-  <figcaption style="text-align:center;"> </figcaption>
-</p>
+
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+  <figure style="margin:0; text-align:center;">
+    <img src="../images/news/6.jpg" style="width:48%; min-width:300px;">
+  </figure>
+
+  <figure style="margin:0; text-align:center;">
+    <img src="../images/news/7.jpg" style="width:48%; min-width:300px;">
+  </figure>
+
+</div>
+
 IEEE IV 是智能车辆领域最具影响力的国际学术会议之一，汇聚了来自全球高校、科研院所、企业及政府机构的专家学者、工程师和青年科研人员，围绕智能车辆、自动驾驶、车辆感知、车路协同、智能交通系统等前沿方向开展深入交流，集中展示该领域的最新研究成果与技术进展。
 <p align="center">
   <img src="../images/news/1.jpg" alt="Demo" width="400">
